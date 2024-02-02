@@ -11,9 +11,9 @@ TOOLS_DATA_READ = f"""
 ๏ **ʜᴇʀᴇ ɪs ᴛᴏᴏʟs ғᴏʀ {BOT_NAME} ! \n\n๏ ᴜsᴇ /repo ɢᴇᴛᴛɪɴɢ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ. \n\n๏ ᴜsᴇ /ping ᴄʜᴇᴄᴋɪɴɢ ғᴏʀ ᴘɪɴɢ.\n\n๏ ᴜsᴇ /id ɢᴇᴛᴛɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛ ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪᴅ ᴏʀ ᴍᴇssᴀɢᴇ ɪᴅ."""
 
 CHATBOT_READ = f"""
-๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/roy_editx)**"""
+๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [🇩𝐗➳🇱𝐔𝐂𝐊𝐘](https://te.legra.ph/file/ea823420b677711a12271.mp4)**"""
 
-SOURCE_READ = f"**๏ ᴀᴀ ɢʏᴀ ʀᴇᴘᴏ ʟᴇɴᴇ ʙᴏsᴅᴋ, ʏᴇ ᴠɪᴅᴇᴏ ᴅᴇᴋʜ ᴀᴜʀ ᴀᴘɴɪ ʀᴇᴘᴏ ʟᴇɴᴇ ᴋɪ ᴀᴀɢ ʙʜᴜᴊʜᴀ.**\n\n๏ https://x-hd.video/video/-aubree-valentine-switch-roles-fta-reality-kings.html "
+SOURCE_READ = f"**๏ ᴀᴀ ɢʏᴀ ʀᴇᴘᴏ ʟᴇɴᴇ ʙᴏsᴅᴋ, ʏᴇ ᴠɪᴅᴇᴏ ᴅᴇᴋʜ ᴀᴜʀ ᴀᴘɴɪ ʀᴇᴘᴏ ʟᴇɴᴇ ᴋɪ ᴀᴀɢ ʙʜᴜᴊʜᴀ.**\n\n๏ https://te.legra.ph/file/ea823420b677711a12271.mp4 "
 
 ADMIN_READ = f"**sᴏᴏɴ**"
 
